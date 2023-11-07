@@ -1,0 +1,10 @@
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: dasasdasd-prod
+  labels:
+    environment-id: env_eead2d47-a0b5-4335-b4b9-417cdf94ca47
+    project-id: project_50ac997a-1887-4252-ba98-d0ce5e5a86bd
+    project-name: dasasdasd
+    environment-name: prod
+    organization-id: org_c50d7b26-1f2a-4a6e-b11e-469a86e002c8
